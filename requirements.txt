@@ -28,7 +28,7 @@ django-rest-framework-docs==0.1.7
 django-social-auth==0.7.25
 django-star-ratings==0.5.4
 django-stored-messages==1.4.0
-djangorestframework==3.5.4
+djangorestframework==3.9.1
 djangorestframework-jwt==1.9.0
 djoser==0.5.4
 docutils==0.13.1
