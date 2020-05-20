@@ -39,7 +39,7 @@ futures==3.0.5
 ## !! Could not determine repository location
 Greendesign==0.0
 html5lib==1.0b8
-httplib2==0.10.3
+httplib2==0.18.0
 hupper==1.0
 inflection==0.3.1
 ipaddress==1.0.18
