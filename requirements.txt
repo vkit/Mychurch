@@ -52,7 +52,7 @@ jsonpickle==0.9.4
 jsonref==0.1
 Mako==1.0.7
 Markdown==2.6.8
-markdown2==2.3.4
+markdown2==2.4.0
 MarkupSafe==1.0
 mock==2.0.0
 nefertari==0.7.0
